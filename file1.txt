@@ -1,2 +1,2 @@
-
-Este é o exemplo de texto file 1
+Fiz uma alteração dentro do ficheiro
+Este é o file1
