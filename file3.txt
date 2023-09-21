@@ -1,1 +1,3 @@
 Este é o exemplo de file 3
+Acrescentei esta linha!
+Hello!
